@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Lovely May;
+    src: url(https://midsummer-reverie.github.io/font/Lovely-May-Regular.otf) format(opentype);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Lovely May;
+    src: url(https://midsummer-reverie.github.io/font/Lovely-May-Italic.otf) format(opentype);
+    font-weight: 400;
+    font-style: italic;
+}
