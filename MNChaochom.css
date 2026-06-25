@@ -1,0 +1,24 @@
+@font-face {
+    font-family: MN Chaochom;
+    src: url(https://midsummer-reverie.github.io/font/MNChaochom.ttf) format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: MN Chaochom;
+    src: url(https://midsummer-reverie.github.io/font/MNChaochomBold.ttf) format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: MN Chaochom;
+    src: url(https://midsummer-reverie.github.io/font/MNChaochomItalic.ttf) format(truetype);
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: MN Chaochom;
+    src: url(https://midsummer-reverie.github.io/font/MNChaochomBoldItalic.ttf) format(truetype);
+    font-weight: 500;
+    font-style: italic;
+}
