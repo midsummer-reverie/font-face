@@ -1,0 +1,27 @@
+@font-face {
+    font-family: BR Chicago;
+    src: url(https://midsummer-reverie.github.io/font/BRChicagoThin.ttf) format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: BR Honeybee;
+    src: url(https://midsummer-reverie.github.io/font/BRHoneybeeBold.ttf) format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: BR Morning;
+    src: url(https://midsummer-reverie.github.io/font/BRMorning.ttf) format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: BR Sleep;
+    src: url(https://midsummer-reverie.github.io/font/BRSleep.ttf) format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
