@@ -1,0 +1,24 @@
+@font-face {
+    font-family: THSarabun PSK;
+    src: url(https://midsummer-reverie.github.io/font/THSarabun.ttf) format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: THSarabun PSK;
+    src: url(https://midsummer-reverie.github.io/font/THSarabunBold.ttf) format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: THSarabun PSK;
+    src: url(https://midsummer-reverie.github.io/font/THSarabunItalic.ttf) format(truetype);
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: THSarabun PSK;
+    src: url(https://midsummer-reverie.github.io/font/THSarabunBoldItalic.ttf) format(truetype);
+    font-weight: 500;
+    font-style: italic;
+}
