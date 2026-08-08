@@ -32,3 +32,10 @@
     font-weight: 500;
     font-style: normal;
 }
+
+@font-face {
+    font-family: JaoCherry;
+    src: url(https://midsummer-reverie.github.io/font/JaoCherry.ttf) format(truetype);
+    font-weight: 500;
+    font-style: normal;
+}
