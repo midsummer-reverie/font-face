@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Quick Love;
+    src: url(https://midsummer-reverie.github.io/font/QuickLove.ttf) format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Quick Love;
+    src: url(https://midsummer-reverie.github.io/font/QuickLoveItalic.ttf) format(truetype);
+    font-weight: 400;
+    font-style: italic;
+}
